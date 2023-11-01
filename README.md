@@ -5,3 +5,6 @@ Welcome to RandomUsers, a new Flutter project built with clean architecture, dep
 ## Project Overview
 
 This application is a demonstration of modern Flutter development practices.
+
+##Base Architecture
+link https://medium.com/@codemax120/flutter-clean-code-arquitecture-af25d681e478
