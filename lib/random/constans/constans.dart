@@ -1,0 +1,1 @@
+const String kRandomRoute = 'https://randomuser.me/api/';
